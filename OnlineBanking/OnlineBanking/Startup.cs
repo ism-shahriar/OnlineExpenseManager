@@ -56,8 +56,8 @@ namespace OnlineBanking
 
             services.AddAuthentication().AddFacebook(facebookOptions =>
             {
-                facebookOptions.AppId = "2551181984957664";
-                facebookOptions.AppSecret = "7edcfdf990391010594c4ed9d4f73dd4";
+                facebookOptions.AppId = Configuration["Authentication:Facebook:AppId"];
+                facebookOptions.AppSecret = Configuration["Authentication:Facebook:AppSecret"];
             });
 
             services.AddAuthentication()
@@ -72,7 +72,7 @@ namespace OnlineBanking
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
-            
+
             services.AddTransient<IAccount, AccountRepository>();
             services.AddTransient<IClient, ClientRepository>();
             services.AddTransient<ISpendingCategory, SpendingCategoryRepository>();
