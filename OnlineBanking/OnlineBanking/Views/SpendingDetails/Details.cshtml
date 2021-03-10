@@ -1,0 +1,35 @@
+﻿@model OnlineBanking.Models.SpendingDetail
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Spending Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ClientID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ClientID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CategoryID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AmountSpent)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AmountSpent)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.SpendingID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

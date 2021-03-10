@@ -1,0 +1,47 @@
+﻿@model IEnumerable<OnlineBanking.Models.SpendingDetail>
+
+@{
+    ViewData["Title"] = "Spending Details";
+}
+
+<h2>Details of Amount Spent</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ClientID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AmountSpent)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Client.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SpendingCategory.CategoryDetails)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AmountSpent)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.SpendingID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.SpendingID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.SpendingID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

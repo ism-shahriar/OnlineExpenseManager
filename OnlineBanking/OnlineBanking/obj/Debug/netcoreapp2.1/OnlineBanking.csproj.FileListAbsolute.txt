@@ -1,0 +1,110 @@
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.deps.json
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.runtimeconfig.json
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.runtimeconfig.dev.json
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.dll
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.pdb
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.Views.dll
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.Views.pdb
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.csprojAssemblyReference.cache
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.csproj.CoreCompileInputs.cache
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.RazorAssemblyInfo.cache
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.RazorAssemblyInfo.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.AssemblyInfoInputs.cache
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.AssemblyInfo.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.TagHelpers.input.cache
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.TagHelpers.output.cache
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.RazorCoreGenerate.cache
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.RazorTargetAssemblyInfo.cache
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.RazorTargetAssemblyInfo.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.Views.pdb
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.dll
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.pdb
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.csproj.CopyComplete
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Accounts\Details.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Accounts\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Accounts\Create.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Accounts\Delete.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Details.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Create.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Delete.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingCategories\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingCategories\Create.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingCategories\Delete.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingDetails\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingDetails\Details.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingDetails\Create.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingDetails\Delete.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Transactions\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Transactions\Details.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Transactions\Create.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Transactions\Delete.g.cshtml.cs
+C:\Centennial_Sofware Engineering\Semester 4\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingCategories\Details.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.deps.json
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.runtimeconfig.json
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.runtimeconfig.dev.json
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.dll
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.pdb
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.Views.dll
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\bin\Debug\netcoreapp2.1\OnlineBanking.Views.pdb
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.csprojAssemblyReference.cache
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.csproj.CoreCompileInputs.cache
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.RazorAssemblyInfo.cache
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.RazorAssemblyInfo.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.AssemblyInfoInputs.cache
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.AssemblyInfo.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.TagHelpers.input.cache
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.TagHelpers.output.cache
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.RazorCoreGenerate.cache
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Accounts\Create.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Accounts\Delete.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Accounts\Details.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Accounts\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Create.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Delete.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Details.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Clients\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingCategories\Create.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingCategories\Delete.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingCategories\Details.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingCategories\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingDetails\Create.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingDetails\Delete.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingDetails\Details.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\SpendingDetails\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Transactions\Create.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Transactions\Delete.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Transactions\Details.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\Transactions\Index.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.RazorTargetAssemblyInfo.cache
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.RazorTargetAssemblyInfo.cs
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.Views.pdb
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.dll
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.pdb
+C:\Centennial_Sofware Engineering\COMP229_asp.net\Project\OnlineBanking\OnlineBanking\obj\Debug\netcoreapp2.1\OnlineBanking.csproj.CopyComplete

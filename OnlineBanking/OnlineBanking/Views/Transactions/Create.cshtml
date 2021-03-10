@@ -1,0 +1,56 @@
+﻿@model OnlineBanking.Models.Transaction
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Creating a Transaction</h2>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TransactionType" class="control-label"></label>
+                <select asp-for="TransactionType" class="form-control">
+                    <option value="Deposit">Deposit</option>
+                    <option value="Withdraw">Withdraw</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="TransactionAmount" class="control-label"></label>
+                <input asp-for="TransactionAmount" class="form-control" />
+                <span asp-validation-for="TransactionAmount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndBalance" class="control-label"></label>
+                <input asp-for="EndBalance" class="form-control" />
+                <span asp-validation-for="EndBalance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccountID" class="control-label"></label>
+                <select asp-for="AccountID" class="form-control"
+                    asp-items="@(new SelectList(ViewBag.Accounts, "AccountId", "AccountNumber"))">
+                </select>
+                <span asp-validation-for="AccountID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TransactionDate" class="control-label"></label>
+                <input asp-for="TransactionDate" class="form-control" />
+                <span asp-validation-for="TransactionDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
